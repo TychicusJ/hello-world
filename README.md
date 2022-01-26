@@ -1,4 +1,5 @@
 # hello-world
 My first repository
-Tychicus Johnson
-Computer Engineering Major
+# About me
+
+My name is Tychicus Johnson
